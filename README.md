@@ -7,13 +7,11 @@ A little while ago it became apparent that imgur blocked MCM, unfortunately this
 ## Installation
 1. Navigate to Settings > Extensions
 2. Enable developer mode
-3. Download [packaged](#) extension from release section
+3. Download [packaged](https://github.com/seanc/imgur-fix/releases/tag/1.0) extension from release section
 4. Drag into google chrome
 5. Navigate to mc-market, imgur images are automagically fixed.
 
 ## Docs & Support
- - [GitHub Wiki](#)
- - [Repo Issues](#)
  - [Contact](#Credits)
 
 ## Credits
