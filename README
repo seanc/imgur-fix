@@ -5,10 +5,14 @@ imgur-fix
 A little while ago it became apparent that imgur blocked MCM, unfortunately this has left the users of MCM with a small issue loading images.
 
 ## Installation
-Coming soon
+1. Navigate to Settings > Extensions
+2. Enable developer mode
+3. Download [packaged](#) extension from release section
+4. Drag into google chrome
+5. Enjoy.
 
 ## Usage
-Coming soon
+None
 
 ## Docs & Support
  - [GitHub Wiki](#)
